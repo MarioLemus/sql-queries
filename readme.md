@@ -1,4 +1,4 @@
-# This time the subject to by studied is SQL and its adapatation to postgresQL
+# This time the subject to be studied is SQL and its adapatation to postgresQL
 
 ## Symbols to have in mind to query data
 
